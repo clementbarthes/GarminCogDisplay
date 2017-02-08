@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum/>
+<symbolTable>
+<entry field="true" id="34" symbol="nChainRings"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="9" object="true" symbol="CogDisplayApp"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="13" symbol="double"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="38" symbol="measuredRatio"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="15" symbol="AppName"/>
+<entry field="true" id="14" symbol="wheelCircumference"/>
+<entry field="true" id="20" symbol="triple"/>
+<entry id="8" object="true" symbol="CogDisplayView"/>
+<entry field="true" id="26" symbol="chainRingCount"/>
+<entry field="true" id="12" symbol="LauncherIcon"/>
+<entry field="true" id="31" symbol="cogLabel"/>
+<entry field="true" id="39" symbol="ringRatios"/>
+<entry field="true" id="35" symbol="chainRings"/>
+<entry field="true" id="28" symbol="chainRing3"/>
+<entry field="true" id="33" symbol="chainRing2"/>
+<entry field="true" id="32" symbol="chainRing1"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="37" symbol="wheelRotSpeed"/>
+<entry field="true" id="16" symbol="single"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry field="true" id="36" symbol="cogs"/>
+<entry field="true" id="17" symbol="cog9"/>
+<entry field="true" id="19" symbol="cog8"/>
+<entry field="true" id="18" symbol="cog7"/>
+<entry field="true" id="22" symbol="cog6"/>
+<entry field="true" id="21" symbol="cog5"/>
+<entry field="true" id="24" symbol="cog4"/>
+<entry field="true" id="23" symbol="cog3"/>
+<entry field="true" id="27" symbol="cog2"/>
+<entry field="true" id="25" symbol="cog1"/>
+<entry field="true" id="40" symbol="cogNumber"/>
+<entry field="true" id="29" symbol="cog11"/>
+<entry field="true" id="30" symbol="cog10"/>
+<entry id="10" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435511" name="i" stackId="1" startPc="268435481"/>
+<entry endPc="268435606" name="j" stackId="3" startPc="268435550"/>
+<entry endPc="268435619" name="i" stackId="2" startPc="268435532"/>
+<entry endPc="268436066" name="currentCoef" stackId="5" startPc="268435968"/>
+<entry endPc="268436079" name="j" stackId="4" startPc="268435968"/>
+<entry endPc="268436092" name="i" stackId="3" startPc="268435950"/>
+<entry endPc="268436092" name="correlationCoef" stackId="2" startPc="268435826"/>
+<entry endPc="268436303" name="printCog" stackId="6" startPc="268435737"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="CogDisplayView">
+<documentation/>
+</functionEntry>
+<functionEntry name="compute" parent="CogDisplayView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="CogDisplayApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="CogDisplayApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="CogDisplayApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="CogDisplayApp">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
