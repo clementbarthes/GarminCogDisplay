@@ -1,0 +1,25 @@
+<resources>
+	<strings>
+		<string id="AppName">Affichage du braquet </string>
+		<string id="cogLabel">Pignon</string>
+		<string id="chainRingCount">Nombre de plateaux</string>
+		<string id="single">Simple</string>
+		<string id="double">Double</string>
+		<string id="triple">Triple</string>
+		<string id="chainRing1">Plateau 1 (petit)</string>
+		<string id="chainRing2">Plateau 2 (0 pour les pedaliers simple)</string>
+		<string id="chainRing3">Chain Ring 3 (0 pour les pedaliers simple et double)</string>
+		<string id="cog1">Pignon 1 (le plus gros)</string>
+		<string id="cog2">Pignon 2</string>
+		<string id="cog3">Pignon 3</string>
+		<string id="cog4">Pignon 4</string>
+		<string id="cog5">Pignon 5</string>
+		<string id="cog6">Pignon 6</string>
+		<string id="cog7">Pignon 7</string>
+		<string id="cog8">Pignon 8</string>
+		<string id="cog9">Pignon 9</string>
+		<string id="cog10">Pignon 10 (0 pour les cassettes 9 vit.)</string>
+		<string id="cog11">Pignon 11 (0 pour les cassettes 9 et 10 vit.)</string>
+		<string id="wheelCircumference">Circonference de la roue en mm (A chercher sur Google en fonction du modele de pneu)</string>
+	</strings>
+</resources>

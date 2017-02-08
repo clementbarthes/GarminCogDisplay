@@ -1,0 +1,106 @@
+<resources>
+	<properties>
+		<property id="chainRingCount" type="number">2</property>
+		<property id="chainRing1" type="number">34</property>
+		<property id="chainRing2" type="number">50</property>
+		<property id="chainRing3" type="number">0</property>
+		<property id="cog1" type="number">32</property>
+		<property id="cog2" type="number">28</property>
+		<property id="cog3" type="number">25</property>
+		<property id="cog4" type="number">22</property>
+		<property id="cog5" type="number">20</property>
+		<property id="cog6" type="number">18</property>
+		<property id="cog7" type="number">16</property>
+		<property id="cog8" type="number">14</property>
+		<property id="cog9" type="number">13</property>
+		<property id="cog10" type="number">12</property>
+		<property id="cog11" type="number">11</property>
+		<property id="wheelCircumference" type="number">2086</property>
+    </properties>
+
+	<strings>
+		<string id="chainRingCount">Number of chain rings</string>
+		<string id="single">Single</string>
+		<string id="double">Double</string>
+		<string id="triple">Triple</string>
+		<string id="chainRing1">Chain Ring 1 (smallest)</string>
+		<string id="chainRing2">Chain Ring 2 (put 0 for single chain ring)</string>
+		<string id="chainRing3">Chain Ring 3 (put 0 for single and double chain ring)</string>
+		<string id="cog1">Cog 1 (largest)</string>
+		<string id="cog2">Cog 2</string>
+		<string id="cog3">Cog 3</string>
+		<string id="cog4">Cog 4</string>
+		<string id="cog5">Cog 5</string>
+		<string id="cog6">Cog 6</string>
+		<string id="cog7">Cog 7</string>
+		<string id="cog8">Cog 8</string>
+		<string id="cog9">Cog 9</string>
+		<string id="cog10">Cog 10 (put 0 for 9 spd cassettes)</string>
+		<string id="cog11">Cog 11 (put 0 for 9 and 10 spd cassettes)</string>
+		<string id="wheelCircumference">Wheel Circumference in mm (Check on Google for your tire model)</string>
+		
+		
+	</strings>
+	
+	<settings>
+		<setting propertyKey="@Properties.chainRingCount" title="@Strings.chainRingCount">
+			<settingConfig type="list">
+				<listEntry value="1">@Strings.single</listEntry>
+				<listEntry value="2">@Strings.double</listEntry>
+				<listEntry value="3">@Strings.triple</listEntry>
+			</settingConfig>
+		</setting>
+		
+		
+        <setting propertyKey="@Properties.chainRing1" title="@Strings.chainRing1">
+            <settingConfig type="numeric" />
+        </setting>
+		<setting propertyKey="@Properties.chainRing2" title="@Strings.chainRing2">
+            <settingConfig type="numeric" />
+        </setting>
+		<setting propertyKey="@Properties.chainRing3" title="@Strings.chainRing3">
+            <settingConfig type="numeric" />
+        </setting>
+		
+		<setting propertyKey="@Properties.cog1" title="@Strings.cog1">
+            <settingConfig type="numeric" />
+        </setting>
+		<setting propertyKey="@Properties.cog2" title="@Strings.cog2">
+            <settingConfig type="numeric" />
+        </setting>
+		<setting propertyKey="@Properties.cog3" title="@Strings.cog3">
+            <settingConfig type="numeric" />
+        </setting>
+		<setting propertyKey="@Properties.cog4" title="@Strings.cog4">
+            <settingConfig type="numeric" />
+        </setting>
+		<setting propertyKey="@Properties.cog5" title="@Strings.cog5">
+            <settingConfig type="numeric" />
+        </setting>
+		<setting propertyKey="@Properties.cog6" title="@Strings.cog6">
+            <settingConfig type="numeric" />
+        </setting>
+		<setting propertyKey="@Properties.cog7" title="@Strings.cog7">
+            <settingConfig type="numeric" />
+        </setting>
+		<setting propertyKey="@Properties.cog8" title="@Strings.cog8">
+            <settingConfig type="numeric" />
+        </setting>
+		<setting propertyKey="@Properties.cog9" title="@Strings.cog9">
+            <settingConfig type="numeric" />
+        </setting>
+		<setting propertyKey="@Properties.cog10" title="@Strings.cog10">
+            <settingConfig type="numeric" />
+        </setting>
+		<setting propertyKey="@Properties.cog11" title="@Strings.cog11">
+            <settingConfig type="numeric" />
+        </setting>
+		<setting propertyKey="@Properties.wheelCircumference" title="@Strings.wheelCircumference">
+            <settingConfig type="numeric" />
+        </setting>
+		
+    </settings>
+
+
+    
+</resources>
