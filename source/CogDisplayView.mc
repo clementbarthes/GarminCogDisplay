@@ -82,10 +82,10 @@ class CogDisplayView extends Ui.SimpleDataField {
 		if (nChainRings == 1){
 			printCog = cogNumber[0].toString();
 		} else if (nChainRings == 2){
-			printCog = cogNumber[0].toString() + " : " + cogNumber[1].toString();
+			printCog = cogNumber[0].toString() + "|" + cogNumber[1].toString();
 		} else {
-			printCog = cogNumber[0].toString() + " : " + 
-			cogNumber[1].toString() + " : " + cogNumber[2].toString();
+			printCog = cogNumber[0].toString() + "|" + 
+			cogNumber[1].toString() + "|" + cogNumber[2].toString();
 		}
 		
         return printCog;
