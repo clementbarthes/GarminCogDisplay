@@ -1,87 +1,107 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="8" pc="268435456" symbol="initialize"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="9" pc="268435460" symbol="initialize"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="10" pc="268435478" symbol="initialize"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="15" pc="268435492" symbol="onLayout"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="16" pc="268435496" symbol="onLayout"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="19" pc="268435515" symbol="onLayout"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="20" pc="268435538" symbol="onLayout"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="24" pc="268435607" symbol="onLayout"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="28" pc="268435676" symbol="onLayout"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="32" pc="268435745" symbol="onLayout"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="36" pc="268435791" symbol="onLayout"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="37" pc="268435834" symbol="onLayout"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="38" pc="268435858" symbol="onLayout"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="39" pc="268435880" symbol="onLayout"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="40" pc="268435904" symbol="onLayout"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="43" pc="268435926" symbol="onLayout"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="44" pc="268435978" symbol="onLayout"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="51" pc="268435982" symbol="compute"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="53" pc="268435986" symbol="compute"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="54" pc="268435997" symbol="compute"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="55" pc="268436010" symbol="compute"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="57" pc="268436029" symbol="compute"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="64" pc="268436046" symbol="onUpdate"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="66" pc="268436050" symbol="onUpdate"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="69" pc="268436093" symbol="onUpdate"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="70" pc="268436117" symbol="onUpdate"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="71" pc="268436144" symbol="onUpdate"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="73" pc="268436171" symbol="onUpdate"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="75" pc="268436195" symbol="onUpdate"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="76" pc="268436229" symbol="onUpdate"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="78" pc="268436253" symbol="onUpdate"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayBackground.mc" lineNum="9" pc="268436274" symbol="initialize"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayBackground.mc" lineNum="10" pc="268436278" symbol="initialize"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayBackground.mc" lineNum="14" pc="268436299" symbol="initialize"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayBackground.mc" lineNum="17" pc="268436320" symbol="setColor"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayBackground.mc" lineNum="18" pc="268436324" symbol="setColor"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayBackground.mc" lineNum="21" pc="268436335" symbol="draw"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayBackground.mc" lineNum="22" pc="268436339" symbol="draw"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayBackground.mc" lineNum="23" pc="268436371" symbol="draw"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayApp.mc" lineNum="5" pc="268436384" symbol="initialize"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayApp.mc" lineNum="6" pc="268436388" symbol="initialize"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayApp.mc" lineNum="10" pc="268436407" symbol="onStart"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayApp.mc" lineNum="14" pc="268436412" symbol="onStop"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayApp.mc" lineNum="18" pc="268436417" symbol="getInitialView"/>
-<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayApp.mc" lineNum="19" pc="268436421" symbol="getInitialView"/>
-<entry filename="Rez" lineNum="38" pc="268436459" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="40" pc="268436463" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="41" pc="268436487" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="42" pc="268436650" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="43" pc="268436675" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="44" pc="268436727" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="45" pc="268436773" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="46" pc="268436936" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="47" pc="268436961" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="48" pc="268437013" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="51" pc="268437059" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="60" pc="268437097" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="62" pc="268437101" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="63" pc="268437125" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="64" pc="268437258" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="67" pc="268437391" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="76" pc="268437429" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="78" pc="268437433" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="79" pc="268437457" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="80" pc="268437590" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="83" pc="268437723" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="92" pc="268437761" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="94" pc="268437765" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="95" pc="268437789" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="96" pc="268437922" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="99" pc="268438055" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="108" pc="268438093" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="110" pc="268438097" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="111" pc="268438121" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="112" pc="268438254" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="115" pc="268438387" symbol="BottomRightLayout"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="34" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="36" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="37" pc="268435481" symbol="initialize"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="39" pc="268435511" symbol="initialize"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="40" pc="268435532" symbol="initialize"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="41" pc="268435550" symbol="initialize"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="44" pc="268435619" symbol="initialize"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="45" pc="268435645" symbol="initialize"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="46" pc="268435671" symbol="initialize"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="47" pc="268435689" symbol="initialize"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="52" pc="268435703" symbol="onLayout"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="53" pc="268435707" symbol="onLayout"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="56" pc="268435726" symbol="onLayout"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="57" pc="268435749" symbol="onLayout"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="61" pc="268435818" symbol="onLayout"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="65" pc="268435887" symbol="onLayout"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="69" pc="268435956" symbol="onLayout"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="73" pc="268436002" symbol="onLayout"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="74" pc="268436045" symbol="onLayout"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="75" pc="268436069" symbol="onLayout"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="76" pc="268436091" symbol="onLayout"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="77" pc="268436115" symbol="onLayout"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="80" pc="268436137" symbol="onLayout"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="81" pc="268436189" symbol="onLayout"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="88" pc="268436193" symbol="compute"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="89" pc="268436197" symbol="compute"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="91" pc="268436286" symbol="compute"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="92" pc="268436317" symbol="compute"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="97" pc="268436342" symbol="compute"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="98" pc="268436389" symbol="compute"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="99" pc="268436410" symbol="compute"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="100" pc="268436428" symbol="compute"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="102" pc="268436459" symbol="compute"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="103" pc="268436470" symbol="compute"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="105" pc="268436483" symbol="compute"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="106" pc="268436494" symbol="compute"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="107" pc="268436501" symbol="compute"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="115" pc="268436555" symbol="compute"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="116" pc="268436572" symbol="compute"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="118" pc="268436623" symbol="compute"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="120" pc="268436687" symbol="compute"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="127" pc="268436779" symbol="onUpdate"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="129" pc="268436783" symbol="onUpdate"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="132" pc="268436826" symbol="onUpdate"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="133" pc="268436850" symbol="onUpdate"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="134" pc="268436877" symbol="onUpdate"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="136" pc="268436904" symbol="onUpdate"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="138" pc="268436928" symbol="onUpdate"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="139" pc="268436948" symbol="onUpdate"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayView.mc" lineNum="141" pc="268436972" symbol="onUpdate"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayBackground.mc" lineNum="9" pc="268436993" symbol="initialize"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayBackground.mc" lineNum="10" pc="268436997" symbol="initialize"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayBackground.mc" lineNum="14" pc="268437018" symbol="initialize"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayBackground.mc" lineNum="17" pc="268437039" symbol="setColor"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayBackground.mc" lineNum="18" pc="268437043" symbol="setColor"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayBackground.mc" lineNum="21" pc="268437054" symbol="draw"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayBackground.mc" lineNum="22" pc="268437058" symbol="draw"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayBackground.mc" lineNum="23" pc="268437090" symbol="draw"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayApp.mc" lineNum="5" pc="268437103" symbol="initialize"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayApp.mc" lineNum="6" pc="268437107" symbol="initialize"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayApp.mc" lineNum="10" pc="268437126" symbol="onStart"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayApp.mc" lineNum="14" pc="268437131" symbol="onStop"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayApp.mc" lineNum="18" pc="268437136" symbol="getInitialView"/>
+<entry filename="C:\\Users\\clement\\Dropbox\\private_projects\\IQ_SDK\\Java_workspace\\CogDisplay\\source\\CogDisplayApp.mc" lineNum="19" pc="268437140" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="38" pc="268437178" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="40" pc="268437182" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="41" pc="268437206" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="42" pc="268437369" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="43" pc="268437394" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="44" pc="268437446" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="45" pc="268437492" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="46" pc="268437655" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="47" pc="268437680" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="48" pc="268437732" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="51" pc="268437778" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="60" pc="268437816" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="62" pc="268437820" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="63" pc="268437844" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="64" pc="268437977" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="67" pc="268438110" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="76" pc="268438148" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="78" pc="268438152" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="79" pc="268438176" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="80" pc="268438309" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="83" pc="268438442" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="92" pc="268438480" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="94" pc="268438484" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="95" pc="268438508" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="96" pc="268438641" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="99" pc="268438774" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="108" pc="268438812" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="110" pc="268438816" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="111" pc="268438840" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="112" pc="268438973" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="115" pc="268439106" symbol="BottomRightLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8389349" symbol="justification"/>
 <entry id="15" method="true" symbol="TopLeftLayout"/>
+<entry field="true" id="40" symbol="nChainRings"/>
 <entry field="true" id="8388611" symbol="Toybox"/>
 <entry id="8388770" module="true" symbol="Strings"/>
 <entry id="10" object="true" symbol="CogDisplayApp"/>
@@ -91,10 +111,11 @@
 <entry id="14" method="true" symbol="MainLayout"/>
 <entry field="true" id="19" symbol="double"/>
 <entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="44" symbol="measuredRatio"/>
 <entry id="8389130" symbol="mColor"/>
 <entry id="8389131" method="true" symbol="setColor"/>
-<entry id="40" symbol="mValue"/>
 <entry id="8388702" method="true" symbol="initialize"/>
+<entry id="47" symbol="printCog"/>
 <entry field="true" id="21" symbol="AppName"/>
 <entry field="true" id="20" symbol="wheelCircumference"/>
 <entry field="true" id="26" symbol="triple"/>
@@ -103,6 +124,8 @@
 <entry id="9" object="true" symbol="Background"/>
 <entry field="true" id="13" symbol="LauncherIcon"/>
 <entry field="true" id="37" symbol="cogLabel"/>
+<entry field="true" id="45" symbol="ringRatios"/>
+<entry field="true" id="41" symbol="chainRings"/>
 <entry field="true" id="34" symbol="chainRing3"/>
 <entry field="true" id="39" symbol="chainRing2"/>
 <entry field="true" id="38" symbol="chainRing1"/>
@@ -114,12 +137,13 @@
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry id="8389279" method="true" symbol="onStart"/>
 <entry id="16" method="true" symbol="TopRightLayout"/>
-<entry id="8388747" symbol="currentHeartRate"/>
+<entry field="true" id="43" symbol="wheelRotSpeed"/>
 <entry id="8389348" symbol="font"/>
 <entry field="true" id="22" symbol="single"/>
 <entry id="8389347" symbol="color"/>
 <entry id="12" module="true" symbol="Layouts"/>
 <entry id="18" method="true" symbol="BottomRightLayout"/>
+<entry field="true" id="42" symbol="cogs"/>
 <entry field="true" id="23" symbol="cog9"/>
 <entry field="true" id="25" symbol="cog8"/>
 <entry field="true" id="24" symbol="cog7"/>
@@ -129,6 +153,7 @@
 <entry field="true" id="29" symbol="cog3"/>
 <entry field="true" id="33" symbol="cog2"/>
 <entry field="true" id="31" symbol="cog1"/>
+<entry field="true" id="46" symbol="cogNumber"/>
 <entry id="8389063" symbol="identifier"/>
 <entry field="true" id="35" symbol="cog11"/>
 <entry field="true" id="36" symbol="cog10"/>
@@ -136,28 +161,35 @@
 <entry id="8388772" module="true" symbol="Fonts"/>
 </symbolTable>
 <localVars>
-<entry endPc="268435926" name="valueView" stackId="4" startPc="268435791"/>
-<entry endPc="268435926" name="labelView" stackId="3" startPc="268435791"/>
-<entry endPc="268435981" name="obscurityFlags" stackId="2" startPc="268435496"/>
-<entry endPc="268436273" name="value" stackId="2" startPc="268436050"/>
-<entry endPc="268436319" name="dictionary" stackId="1" startPc="268436278"/>
-<entry endPc="268437096" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268436463"/>
-<entry endPc="268437096" name="rez_cmp_local_bitmap_value_fontHeight" stackId="6" startPc="268436463"/>
-<entry endPc="268437096" name="rez_cmp_local_bitmap_value" stackId="5" startPc="268436463"/>
-<entry endPc="268437096" name="rez_cmp_local_custom_drawable_7HOJJ0PIK6MGCL46MVVP" stackId="2" startPc="268436463"/>
-<entry endPc="268437096" name="rez_cmp_local_bitmap_label_fontHeight" stackId="4" startPc="268436463"/>
-<entry endPc="268437428" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268437101"/>
-<entry endPc="268437428" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268437101"/>
-<entry endPc="268437428" name="rez_cmp_local_custom_drawable_JS884YFEVP6HJ11LRDBN" stackId="2" startPc="268437101"/>
-<entry endPc="268437760" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268437433"/>
-<entry endPc="268437760" name="rez_cmp_local_custom_drawable_YSA0B73SCS8CY80F7TWY" stackId="2" startPc="268437433"/>
-<entry endPc="268437760" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268437433"/>
-<entry endPc="268438092" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268437765"/>
-<entry endPc="268438092" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268437765"/>
-<entry endPc="268438092" name="rez_cmp_local_custom_drawable_7QJMF58T7GSLM8S4ERS3" stackId="2" startPc="268437765"/>
-<entry endPc="268438424" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438097"/>
-<entry endPc="268438424" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438097"/>
-<entry endPc="268438424" name="rez_cmp_local_custom_drawable_YZ4DOA1XN0Z91ME63A1P" stackId="2" startPc="268438097"/>
+<entry endPc="268435511" name="i" stackId="1" startPc="268435481"/>
+<entry endPc="268435606" name="j" stackId="3" startPc="268435550"/>
+<entry endPc="268435619" name="i" stackId="2" startPc="268435532"/>
+<entry endPc="268436137" name="valueView" stackId="4" startPc="268436002"/>
+<entry endPc="268436137" name="labelView" stackId="3" startPc="268436002"/>
+<entry endPc="268436192" name="obscurityFlags" stackId="2" startPc="268435707"/>
+<entry endPc="268436526" name="currentCoef" stackId="5" startPc="268436428"/>
+<entry endPc="268436539" name="j" stackId="4" startPc="268436428"/>
+<entry endPc="268436552" name="i" stackId="3" startPc="268436410"/>
+<entry endPc="268436552" name="correlationCoef" stackId="2" startPc="268436286"/>
+<entry endPc="268436992" name="value" stackId="2" startPc="268436783"/>
+<entry endPc="268437038" name="dictionary" stackId="1" startPc="268436997"/>
+<entry endPc="268437815" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268437182"/>
+<entry endPc="268437815" name="rez_cmp_local_bitmap_value_fontHeight" stackId="6" startPc="268437182"/>
+<entry endPc="268437815" name="rez_cmp_local_bitmap_value" stackId="5" startPc="268437182"/>
+<entry endPc="268437815" name="rez_cmp_local_custom_drawable_DDB7L020Q9JXSAN33P0V" stackId="2" startPc="268437182"/>
+<entry endPc="268437815" name="rez_cmp_local_bitmap_label_fontHeight" stackId="4" startPc="268437182"/>
+<entry endPc="268438147" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268437820"/>
+<entry endPc="268438147" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268437820"/>
+<entry endPc="268438147" name="rez_cmp_local_custom_drawable_QNJID5SI4R5QZ9NF7WCC" stackId="2" startPc="268437820"/>
+<entry endPc="268438479" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438152"/>
+<entry endPc="268438479" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438152"/>
+<entry endPc="268438479" name="rez_cmp_local_custom_drawable_QJ7Z4V73SU287BZFVHVK" stackId="2" startPc="268438152"/>
+<entry endPc="268438811" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438484"/>
+<entry endPc="268438811" name="rez_cmp_local_custom_drawable_MFP8JZIBXSCOMT7I4E9C" stackId="2" startPc="268438484"/>
+<entry endPc="268438811" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438484"/>
+<entry endPc="268439143" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438816"/>
+<entry endPc="268439143" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438816"/>
+<entry endPc="268439143" name="rez_cmp_local_custom_drawable_NK67EGABBCOFNMZ5OCTO" stackId="2" startPc="268438816"/>
 </localVars>
 <annotations/>
 <functions>
