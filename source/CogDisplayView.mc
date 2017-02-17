@@ -129,11 +129,14 @@ if (info.currentCadence != null && info.currentSpeed != null
         View.findDrawableById("Background").setColor(getBackgroundColor());
 
         // Set the foreground color and value
+        var labelView = View.findDrawableById("label");
         var value = View.findDrawableById("value");
         if (getBackgroundColor() == Gfx.COLOR_BLACK) {
             value.setColor(Gfx.COLOR_WHITE);
+            labelView.setColor(Gfx.COLOR_WHITE);
         } else {
             value.setColor(Gfx.COLOR_BLACK);
+            labelView.setColor(Gfx.COLOR_BLACK);
         }
         value.setText(printCog);
 		value.setFont(Gfx.FONT_LARGE);
